@@ -1,1 +1,1 @@
-Tugas pertemuan pertama tentang keturunan extends, setters, dan getters. Berisi program tentang pengelompokan dan keturunan mahluk hidup serta penjelasan secara sederhana.
+File bernama (src) itu sebuah Tugas pertemuan pertama berisi tentang program keturunan extends, setters, dan getters. Berisi program tentang pengelompokan dan keturunan mahluk hidup serta penjelasan secara sederhana.
